@@ -1,0 +1,14 @@
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\bin\Debug\net8.0\Repeating_Numbers.exe
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\bin\Debug\net8.0\Repeating_Numbers.deps.json
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\bin\Debug\net8.0\Repeating_Numbers.runtimeconfig.json
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\bin\Debug\net8.0\Repeating_Numbers.dll
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\bin\Debug\net8.0\Repeating_Numbers.pdb
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\Repeating_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\Repeating_Numbers.AssemblyInfoInputs.cache
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\Repeating_Numbers.AssemblyInfo.cs
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\Repeating_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\Repeating_Numbers.dll
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\refint\Repeating_Numbers.dll
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\Repeating_Numbers.pdb
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\Repeating_Numbers.genruntimeconfig.cache
+C:\Users\Haileyg\source\repos\Repeating_Numbers\Repeating_Numbers\obj\Debug\net8.0\ref\Repeating_Numbers.dll
